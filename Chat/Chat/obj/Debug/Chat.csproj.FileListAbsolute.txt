@@ -1,0 +1,24 @@
+E:\VS2012 Projects\Chat\Chat\bin\Debug\Chat.exe.config
+E:\VS2012 Projects\Chat\Chat\bin\Debug\Chat.exe
+E:\VS2012 Projects\Chat\Chat\bin\Debug\Chat.pdb
+E:\VS2012 Projects\Chat\Chat\obj\Debug\Chat.exe
+E:\VS2012 Projects\Chat\Chat\obj\Debug\Chat.pdb
+E:\VS2012 Projects\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Владимир Смирнов\Google Диск\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Владимир Смирнов\Google Диск\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Владимир Смирнов\Google Диск\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Владимир Смирнов\Google Диск\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Владимир Смирнов\Google Диск\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Владимир Смирнов\Google Диск\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+E:\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\bin\Debug\Chat.exe.config
+E:\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\obj\Debug\Chat.exe
+E:\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\obj\Debug\Chat.pdb
+E:\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\bin\Debug\Chat.exe
+E:\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\bin\Debug\Chat.pdb
+E:\!РАЗРАБОТКА\VS2012 Projects\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Иван Иванов\Source\Repos\CSharp-Console-Client-Server-Chat\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Иван Иванов\Source\Repos\CSharp-Console-Client-Server-Chat\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Иван Иванов\Source\Repos\CSharp-Console-Client-Server-Chat\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Иван Иванов\Source\Repos\CSharp-Console-Client-Server-Chat\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Иван Иванов\Source\Repos\CSharp-Console-Client-Server-Chat\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Иван Иванов\Source\Repos\CSharp-Console-Client-Server-Chat\Chat\Chat\obj\Debug\Chat.pdb
